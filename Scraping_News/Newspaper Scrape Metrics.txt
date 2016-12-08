@@ -1,0 +1,32 @@
+Newspaper Scrape Metrics
+------------------------
+
+CNN
+---
+
+Total # of Articles Scraped: 956
+Total # of Successful Articles: 900
+Total # of Failed Articles: 56 (due to parse error)
+
+Total # of Articles in 'CNN.csv': 894
+After reviewing the article, 6 articles were not formatted correctly (deleted)
+
+MSNBC
+-----
+
+Total # of Articles Scraped: 163
+Total # of Successful Articles: 163
+Total # of Failed Articles: 0 (due to parse error)
+
+Total # of Articles in 'MSNBC.csv': 156
+After reviewing the article, 7 articles were not formatted correctly (deleted)
+
+FOXNEWS
+-------
+
+Total # of Articles Scraped: 626
+Total # of Successful Articles: 619
+Total # of Failed Articles: 7 (due to parse error)
+
+Total # of Articles in 'FOXNEWS.csv': 598
+After reviewing the article, 21 articles were not formatted correctly (deleted)
